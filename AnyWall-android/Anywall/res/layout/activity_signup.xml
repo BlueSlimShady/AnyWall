@@ -1,6 +1,7 @@
-<merge xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context=".SignUpActivity" >
+    tools:context=".SignUpActivity"
+    android:orientation="vertical">
 
     <!-- Login form -->
 
@@ -55,4 +56,4 @@
         </LinearLayout>
     </ScrollView>
 
-</merge>
+</LinearLayout>
